@@ -1,1 +1,2 @@
 i add a new file insure that i will start learn branch
+Creating a new branch is quick & simple.
